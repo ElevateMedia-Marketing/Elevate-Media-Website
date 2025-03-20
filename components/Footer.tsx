@@ -14,7 +14,7 @@ const social = [
     link: "https://www.linkedin.com/company/elevatemedia-marketing/?viewAsMember=true",
   },
   {
-    icon: "instagram.png",
+    icon: "Instagram.png",
     link: "#",
   },
   {
