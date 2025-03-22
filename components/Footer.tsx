@@ -51,7 +51,7 @@ const Footer = () => {
                   key={social.icon}
                   href={`${social.link}`}
                   target={
-                    social.icon === "instagram.png" || social.icon === "x.svg"
+                    social.icon === "Instagram.png" || social.icon === "x.svg"
                       ? ""
                       : "_blank"
                   }
