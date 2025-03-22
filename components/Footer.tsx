@@ -10,11 +10,11 @@ const social = [
     link: "https://www.facebook.com/profile.php?id=61554706495086#",
   },
   {
-    icon: "facebook.png",
+    icon: "linkedin.png",
     link: "https://www.linkedin.com/company/elevatemedia-marketing/?viewAsMember=true",
   },
   {
-    icon: "facebook.png",
+    icon: "Instagram.png",
     link: "#",
   },
   {
